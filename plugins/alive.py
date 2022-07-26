@@ -38,7 +38,7 @@ async def start_(client: Client, message: Message):
 💥 ʜᴇʟʟᴏ, ɪ ᴀᴍ sᴜᴘᴇʀ ғᴀsᴛ ᴠᴄ ᴘʟᴀʏᴇʀ
 ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs ...
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ ᴄʀᴇᴀᴛᴏʀ : [vivekmishra](https://t.me/i_anonymouss)
+┣★ ᴄʀᴇᴀᴛᴏʀ : [vivek mishra](https://t.me/i_anonymouss)
 ┣★ ᴜᴘᴅᴀᴛᴇs : [vivek mishra](https://t.me/i_anonymouss)
 ┣★ sᴜᴘᴘᴏʀᴛ : [vivek mishra](https://t.me/kingofbilionsherts)
 ┣★ sᴏᴜʀᴄᴇ › : [ɢᴇᴛ ʀᴇᴘᴏ ʜᴇʀᴇ](https://github.com/Kuhmarvivek/anonymous)
@@ -59,7 +59,7 @@ async def start_(client: Client, message: Message):
     )
     
     
-@Client.on_message(commandpro(["/start", "/alive", "aditya"]) & filters.group & ~filters.edited)
+@Client.on_message(commandpro(["/start", "/alive", "vivekmishra"]) & filters.group & ~filters.edited)
 async def start(client: Client, message: Message):
     await message.reply_photo(
         photo=f"https://i.ytimg.com/vi/aP6_Q6lElJE/maxresdefault.jpg",
@@ -84,7 +84,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "💥 ᴄʟɪᴄᴋ ᴍᴇ ᴛᴏ ɢᴇᴛ ʀᴇᴘᴏ 💞", url=f"https://github.com/mradityaxd/adityaplayer")
+                        "💥 ᴄʟɪᴄᴋ ᴍᴇ ᴛᴏ ɢᴇᴛ ʀᴇᴘᴏ 💞", url=f"https://github.com/Kuhmarvivek/anonymous")
                 ]
             ]
         ),
