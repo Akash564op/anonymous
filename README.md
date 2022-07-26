@@ -26,4 +26,4 @@
 #### Copy Pasters You Can Copy This But Must Give Credits ...
 
 ### Owner Of This Repository
-[![Aditya Halder](https://te.legra.ph/file/8f9d2a593854d0c736201.png)](https://t.me/AdityaHalder)
+[![kumar vivekanand](https://i.ytimg.com/vi/aP6_Q6lElJE/maxresdefault.jpg)](https://t.me/i_anonymouss)
