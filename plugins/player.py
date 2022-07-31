@@ -107,8 +107,10 @@ async def generate_cover(requested_by, title, views, duration, thumbnail):
 )
 async def play(_, message: Message):
     global que
-    global useer
+    global useer 
     
+    
+    await message.delete()
     lel = await message.reply("**🔎 Sɘɑɤƈɦɩɳʛ ...**")
 
     administrators = await get_administrators(message.chat)
@@ -385,7 +387,7 @@ async def skip(_, message: Message):
    ) 
 
 
-@Client.on_message(commandpro(["/end", "end", "/stop", "stop", "x"]) & other_filters)
+@Client.on_message(commandpro(["/end", "end", "x"]) & other_filters)
 @errors
 @authorized_users_only
 async def stop(_, message: Message):
