@@ -25,5 +25,6 @@
 
 #### Copy Pasters You Can Copy This But Must Give Credits ...
 
-### Owner Of This Repository
-[![kumar vivekanand](https://i.ytimg.com/vi/aP6_Q6lElJE/maxresdefault.jpg)](https://t.me/i_anonymouss)
+### Owner Of This Repository![my musicbot](https://user-images.githubusercontent.com/109455833/182102057-d9050afa-a072-4a21-9f59-22a743a09c90.png)
+
+[![kumar vivekanand](https://user-images.githubusercontent.com/109455833/182102057-d9050afa-a072-4a21-9f59-22a743a09c90.png)](https://t.me/i_anonymouss)
