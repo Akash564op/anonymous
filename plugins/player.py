@@ -75,7 +75,7 @@ async def generate_cover(requested_by, title, views, duration, thumbnail):
                 await f.close()
 
     image1 = Image.open("./background.png")
-    image2 = Image.open("resource/wallperr.jpg")
+    image2 = Image.open("resource/my musicbot.png")
     image3 = changeImageSize(1280, 720, image1)
     image4 = changeImageSize(1280, 720, image2)
     image5 = image3.convert("RGBA")
@@ -416,6 +416,6 @@ async def admincache(client, message: Message):
     )
 
     await message.reply_photo(
-                              photo="https://i.postimg.cc/28jDP97b/1084517-200.png",
+                              photo="https://user-images.githubusercontent.com/109455833/182102057-d9050afa-a072-4a21-9f59-22a743a09c90.png",
                               caption="**vivek mishra🔈 Mʋsɩƈ🤞Nøω 🥀\n🔥 Ʀɘɭøɑɗɘɗ 🌷 ...**"
     )
