@@ -27,4 +27,4 @@
 
 ### Owner Of This Repository![my musicbot](https://user-images.githubusercontent.com/109455833/182102057-d9050afa-a072-4a21-9f59-22a743a09c90.png)
 
-[![kumar vivekanand](https://user-images.githubusercontent.com/109455833/182102057-d9050afa-a072-4a21-9f59-22a743a09c90.png)](https://t.me/i_anonymouss)
+[![kumar vivekanand](https://telegra.ph//file/6c3966bce3b511c455f60.jpg)](https://t.me/i_anonymouss)
